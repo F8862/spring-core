@@ -1,0 +1,65 @@
+
+Jul 28, 2022 20:31:41.97 NEW SESSION
+Jul 28, 2022 20:31:41.97 [25072:19236:0728/203141.970:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Jul 28, 2022 20:31:42.38 [25072:32068:0728/203142.388:ERROR:device_event_log_impl.cc(214)] [20:31:42.388] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 28, 2022 20:32:40.20 [25072:20360:0728/203240.208:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 28, 2022 20:36:33.33 [13928:40948:0728/203633.336:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Jul 28, 2022 20:36:33.82 [13928:30472:0728/203633.829:ERROR:device_event_log_impl.cc(214)] [20:36:33.829] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 28, 2022 20:37:31.55 [13928:39600:0728/203731.550:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 28, 2022 20:45:59.79 [13928:28156:0728/204559.793:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Jul 31, 2022 12:33:20.17 NEW SESSION
+Jul 31, 2022 12:33:20.17 [12048:19240:0731/123320.174:ERROR:device_event_log_impl.cc(214)] [12:33:20.174] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 31, 2022 12:33:20.98 [12048:9072:0731/123320.984:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Jul 31, 2022 12:34:17.90 [12048:18076:0731/123417.907:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 31, 2022 14:41:05.23 [12048:20852:0731/144105.235:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jul 31, 2022 14:41:22.20 [12048:20852:0731/144122.200:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2022 14:41:30.52 [12048:20852:0731/144130.523:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2022 14:41:33.59 [12048:20852:0731/144133.596:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2022 16:16:29.00 [12048:20852:0731/161629.008:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 14, 2022 12:04:28.25 NEW SESSION
+Aug 14, 2022 12:04:28.25 [25596:19884:0814/120428.252:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Aug 14, 2022 12:04:28.71 [25596:9924:0814/120428.716:ERROR:device_event_log_impl.cc(214)] [12:04:28.716] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 12:05:26.46 [25596:2820:0814/120526.461:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 14, 2022 13:48:24.37 [25596:9448:0814/134824.372:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:29:03.53 [25596:9448:0814/142903.533:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:29:45.44 [25596:9448:0814/142945.445:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:31:30.02 [25596:9448:0814/143130.024:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:34:20.12 [25596:9448:0814/143420.126:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:41:20.41 [25596:9448:0814/144120.410:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:51:20.41 [25596:9448:0814/145120.414:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 14:59:48.05 [25596:9448:0814/145948.053:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Aug 14, 2022 17:05:26.46 [25596:15420:0814/170526.467:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 14, 2022 17:10:19.06 [25596:9448:0814/171019.064:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 17:10:44.79 [25596:9448:0814/171044.795:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 15, 2022 12:37:50.25 NEW SESSION
+Aug 15, 2022 12:37:50.25 [20660:13556:0815/123750.256:ERROR:device_event_log_impl.cc(214)] [12:37:50.256] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 15, 2022 12:37:51.43 [20660:7256:0815/123751.438:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Aug 15, 2022 12:38:48.10 [20660:11220:0815/123848.103:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 15, 2022 13:57:28.95 [20660:20264:0815/135728.954:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2022 14:53:28.95 [20660:20264:0815/145328.955:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2022 14:54:16.84 [20660:20264:0815/145416.840:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Aug 15, 2022 17:13:01.42 [20660:20264:0815/171301.428:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 20, 2022 12:35:54.71 NEW SESSION
+Aug 20, 2022 12:35:54.71 [29544:10628:0820/123554.715:ERROR:device_event_log_impl.cc(214)] [12:35:54.715] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 20, 2022 12:36:02.01 [29544:14092:0820/123602.013:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Aug 20, 2022 12:36:52.40 [29544:7144:0820/123652.409:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 20, 2022 13:29:40.58 [29544:10628:0820/132940.582:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 20, 2022 14:24:21.35 [29544:28812:0820/142421.355:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 14:24:50.67 [29544:28812:0820/142450.669:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 14:50:52.01 [29544:28812:0820/145052.014:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 14:52:15.73 [29544:28812:0820/145215.736:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 17:27:17.78 [29544:28812:0820/172717.781:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 21, 2022 11:44:18.99 NEW SESSION
+Aug 21, 2022 11:44:18.99 [29256:20556:0821/114418.996:ERROR:device_event_log_impl.cc(214)] [11:44:18.995] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 21, 2022 11:44:24.03 [29256:16308:0821/114424.033:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 15
+Aug 21, 2022 11:45:16.65 [29256:3488:0821/114516.655:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 21, 2022 12:58:44.47 [29256:20556:0821/125844.476:ERROR:interface_endpoint_client.cc(665)] Message 5 rejected by interface blink.mojom.WidgetHost
+Aug 21, 2022 13:53:25.98 [29256:7148:0821/135325.985:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2022 14:33:40.45 [29256:7148:0821/143340.452:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2022 15:28:40.87 [29256:20556:0821/152840.872:ERROR:interface_endpoint_client.cc(665)] Message 5 rejected by interface blink.mojom.WidgetHost
+Aug 21, 2022 15:29:05.26 [29256:20556:0821/152905.268:ERROR:interface_endpoint_client.cc(665)] Message 5 rejected by interface blink.mojom.WidgetHost

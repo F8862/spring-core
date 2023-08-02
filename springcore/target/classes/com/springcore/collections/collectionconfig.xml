@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd
+ http://www.springframework.org/schema/context
+ https://www.springframework.org/schema/context/spring-context.xsd">
+
+	<!-- This is our bean -->
+	<bean name="emp1" class="com.springcore.collections.Emp">
+		<property name="name" value="Radhe" />
+		<property name="phones">
+			<!-- If we single value list then no need to define list tag just add 
+				value tag below property -->
+			<list>
+				<value>9876543210</value>
+				<value>7654321890</value>
+				<value>8765432190</value>
+				<value>7788665544</value>
+				<null />
+			</list>
+		</property>
+		<property name="adresses">
+			<set>
+				<value>Delhi</value>
+				<value>Lucknow</value>
+				<value>Kanpur</value>
+				<value>Mumbai</value>
+			</set>
+		</property>
+		<property name="courses">
+			<map>
+				<entry key="java" value="2months" />
+				<entry key="Python" value="1.2months" />
+				<entry key="C" value="1months" />
+				<entry key="C++" value="2months" />
+
+			</map>
+
+		</property>
+		<property name="props">
+			<props>
+				<prop key="name">furquanansari</prop>
+				<prop key="pass">12345</prop>
+
+			</props>
+		</property>
+
+
+
+	</bean>
+
+</beans>

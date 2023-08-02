@@ -1,0 +1,17 @@
+127.0.0.1 - - [28/Jul/2022:20:30:32 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [28/Jul/2022:20:30:35 +0530] "GET /springmvc/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Jul/2022:20:31:41 +0530] "GET /springmvc/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Jul/2022:20:31:41 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+127.0.0.1 - - [28/Jul/2022:20:32:26 +0530] "GET /springmvc/home HTTP/1.1" 404 1058
+127.0.0.1 - - [28/Jul/2022:20:33:56 +0530] "GET /springmvc/home HTTP/1.1" 404 1058
+127.0.0.1 - - [28/Jul/2022:20:35:42 +0530] "GET /springmvc/WEB-INF/classes/springmvc/controller/HomeController.java HTTP/1.1" 404 992
+127.0.0.1 - - [28/Jul/2022:20:36:00 +0530] "GET /springmvc/WEB-INF/classes/springmvc/controller/HomeController.java HTTP/1.1" 404 992
+127.0.0.1 - - [28/Jul/2022:20:36:30 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [28/Jul/2022:20:36:32 +0530] "GET /springmvc/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Jul/2022:20:36:32 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+127.0.0.1 - - [28/Jul/2022:20:36:57 +0530] "GET /springmvc/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Jul/2022:20:37:05 +0530] "GET /springmvc/home HTTP/1.1" 404 1058
+127.0.0.1 - - [28/Jul/2022:20:37:52 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [28/Jul/2022:20:37:52 +0530] "GET /springmvc/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Jul/2022:20:38:02 +0530] "GET /springmvc/home HTTP/1.1" 200 339
+127.0.0.1 - - [28/Jul/2022:20:41:33 +0530] "GET /springmvc/about HTTP/1.1" 200 287
